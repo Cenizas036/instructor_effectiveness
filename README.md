@@ -197,4 +197,4 @@ Combining quantitative analysis with qualitative review is essential for fair an
 
 ---
 
-ce / AI Internship Candidate
+ce / AI Internship Candidat
