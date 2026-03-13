@@ -197,6 +197,4 @@ Combining quantitative analysis with qualitative review is essential for fair an
 
 ---
 
-
-Sanket
-Data Science / AI Internship Candidate
+ce / AI Internship Candidate
